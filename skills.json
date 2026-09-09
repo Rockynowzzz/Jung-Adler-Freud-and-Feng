@@ -1,0 +1,56 @@
+{
+  "name": "Jung-Adler-Freud-and-Feng",
+  "version": "1.0.0",
+  "description": "四位思想者的思维操作系统 Skill 合集",
+  "skills": [
+    {
+      "name": "freud-perspective",
+      "path": "skills/freud-perspective/SKILL.md",
+      "person": "西格蒙德·弗洛伊德",
+      "period": "1856–1939",
+      "models": 6,
+      "heuristics": 10,
+      "triggers": ["弗洛伊德", "freud", "freud-perspective"],
+      "tags": ["心理学", "精神分析", "无意识", "决策"]
+    },
+    {
+      "name": "jung-perspective",
+      "path": "skills/jung-perspective/SKILL.md",
+      "person": "卡尔·荣格",
+      "period": "1875–1961",
+      "models": 7,
+      "heuristics": 10,
+      "triggers": ["荣格", "jung", "jung-perspective"],
+      "tags": ["心理学", "分析心理学", "原型", "集体无意识"]
+    },
+    {
+      "name": "adler-perspective",
+      "path": "skills/adler-perspective/SKILL.md",
+      "person": "阿尔弗雷德·阿德勒",
+      "period": "1870–1937",
+      "models": 6,
+      "heuristics": 10,
+      "triggers": ["阿德勒", "adler", "adler-perspective"],
+      "tags": ["心理学", "个体心理学", "社会兴趣", "自卑感"]
+    },
+    {
+      "name": "fengge-perspective",
+      "path": "skills/fengge-perspective/SKILL.md",
+      "person": "峰哥亡命天涯（周丽峰）",
+      "period": "在世",
+      "models": 7,
+      "heuristics": 10,
+      "triggers": ["峰哥", "fengge", "fengge-perspective", "峰哥亡命天涯"],
+      "tags": ["自媒体", "解构主义", "社会观察", "当代"]
+    }
+  ],
+  "research_dimensions": [
+    "著作与系统思考",
+    "长对话与即兴思考",
+    "表达DNA",
+    "外部视角与批评",
+    "决策记录",
+    "人物时间线"
+  ],
+  "research_date": "2026-09"
+}
